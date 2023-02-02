@@ -8,7 +8,7 @@ Lerne das Mobile Game Fruit Ninja in Unity zu entwickeln. Fruit Ninja wurde von 
 - [🧰 Assets Download](https://github.com/PrezipGames/Fruit-Ninja/blob/main/FruitNinja.unitypackage)
 - [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Fruit-Ninja/archive/refs/heads/main.zip)
 - [🎬 YT Tutorial](https://www.youtube.com/watch?v=t-1n-oEbgEY&t=48s)
-- [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
+- [💬 Joint unserem Discord Server](https://discord.gg/cY5RW7D95u)
 - [👍 Abonniert um keine Videos zu verpassen](https://www.youtube.com/@prezipgames)
 
 ![](Images/FruitNinja1.png)
